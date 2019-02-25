@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/mrakitic/IPAPZ_food_delivery.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
